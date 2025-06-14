@@ -1,4 +1,4 @@
-<h1 align="center">📌 Nome do Projeto</h1>
+<h1 align="center">📌 Fokus </h1>
 
 <p align="center">
   Descrição breve e chamativa do projeto. <br/>
