@@ -1,8 +1,8 @@
 <h1 align="center">📌 Fokus </h1>
 
 <p align="center">
-  Descrição breve e chamativa do projeto. <br/>
-  Uma ou duas linhas que resumem a proposta principal.
+  Um site para te ajudar a se concentrar nos estudos<br/>
+  Com a técnica de pomodoro você pode estudar entre pausas longas e curtas e um tempo para cada atividade. Este recurso vai fazer com que os seus estudos não fiquem tão cansativos.
 </p>
 
 <p align="center">
