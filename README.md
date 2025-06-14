@@ -1,25 +1,41 @@
-# Fokus
+<h1 align="center">📌 Nome do Projeto</h1>
 
-Fokus é um sistema projetado para otimizar a gestão de tarefas e aumentar a produtividade pessoal e em equipe. Com uma interface intuitiva e funcionalidades robustas, Fokus ajuda você a se manter organizado e focado em seus objetivos.
+<p align="center">
+  Descrição breve e chamativa do projeto. <br/>
+  Uma ou duas linhas que resumem a proposta principal.
+</p>
 
-## Funcionalidades
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em desenvolvimento-yellow"/>
+  <img src="https://img.shields.io/badge/license-MIT-blue"/>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
+</p>
 
-- **Gerenciamento de Tarefas**: Crie, edite e exclua tarefas facilmente.
-- **Listas de Tarefas**: Organize suas tarefas em listas personalizáveis.
-- **Prioridade e Prazo**: Defina prioridades e prazos para cada tarefa.
-- **Notificações**: Receba lembretes para tarefas pendentes.
-- **Relatórios de Produtividade**: Acompanhe seu progresso com relatórios visuais.
+---
 
-## Tecnologias Utilizadas
+## 🧠 Sobre o Projeto
 
-- **Frontend**: HMTL, CSS
-- **Backend**: Node.js com Express
+- Projeto para estudos utilizando a técnica de pomodoro.
+- Auxilia o estudante a ter concentração e pausas constantes para relaxar.
+- O projeto é interessante para aqueles com dificuldades em se concentrar ao estudar, para poderem relaxar e manter o foco com mais precisão.
 
-## Instalação
+---
 
-Para rodar o projeto localmente, siga os passos abaixo:
+## 🚀 Tecnologias Utilizadas
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/fokus.git
-   cd fokus
+Este projeto foi desenvolvido com as seguintes tecnologias:
+
+- ✅ [HTML](#)
+- ✅ [CSS](#)
+- ✅ [JavaScript](#)
+
+---
+
+## 📦 Como usar
+
+### Pré-requisitos
+
+```bash
+# Exemplo
+npm install
+
