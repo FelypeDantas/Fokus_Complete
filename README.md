@@ -33,9 +33,17 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📦 Como usar
 
-### Pré-requisitos
+Acesse o link para ver o projeto: <a href="https://felypedantas.github.io/Fokus_Complete/"> Fokus </a>
 
-```bash
-# Exemplo
-npm install
+## Possiveis melhorias 
 
+- [ ] Botão Cancelar funcional
+- [ ] Limpar totalmente lista quando precisa
+
+<h2 align="center">Autor</h2>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/felype-dantas-dos-santos-94497b193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> 
+    <img style="border-radius: 50%;" src="https://github.com/FelypeDantas.png" width="100px;" alt="Foto do autor"/> <br/> 
+    <sub><b>Felype Dantas Dos Santos</b></sub> </a> <br/>
+    <p>Feito com 💻 por Felype Dantas Dos Santos — entre em contato!</p> 
+</div>
