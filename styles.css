@@ -15,6 +15,10 @@
     position: relative;
 }
 
+.hidden {
+    display: none;
+}
+
 .app__section-task-header__ul {
     display: none;
     position: absolute;
