@@ -86,10 +86,6 @@
     }
 }
 
-.hidden {
-    display: none;
-}
-
 .app__section-task-container {
     display: flex;
     justify-content: center;
