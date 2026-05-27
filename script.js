@@ -17,7 +17,7 @@ const audioPlay = new Audio('./sons/play.wav');
 const formulario = document.querySelector('.app__form-add-task');
 const botaoCancelar = document.querySelector('.app__form-footer__button--cancel');
 const botaoAdicionarTarefa = document.querySelector('.app__button--add-task');
-const textarea = document.querySelector('.app__form-textarea');
+const campoTarefa = document.querySelector('.app__form-textarea');
 musica.loop = true;
 
 let tempoDecorridoEmSegundos = 1500;
@@ -27,14 +27,14 @@ let intervaloId = null;
 botaoAdicionarTarefa.addEventListener('click', () => {
     formulario.classList.remove('hidden');
     formulario.setAttribute('aria-hidden', 'false');
-    textarea.focus();
+    campoTarefa.focus();
 });
 
 // Cancelar formulário
 botaoCancelar.addEventListener('click', () => {
     formulario.classList.add('hidden');
     formulario.setAttribute('aria-hidden', 'true');
-    textarea.value = '';
+    campoTarefa.value = '';
 });
 
 
