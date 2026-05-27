@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em desenvolvimento-yellow"/>
+  <img src="https://img.shields.io/badge/status-em concluído-green"/>
   <img src="https://img.shields.io/badge/license-MIT-blue"/>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
 </p>
@@ -34,11 +34,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## 📦 Como usar
 
 Acesse o link para ver o projeto: <a href="https://felypedantas.github.io/Fokus_Complete/"> Fokus </a>
-
-## Possiveis melhorias 
-
-- [ ] Botão Cancelar funcional
-- [ ] Limpar totalmente lista quando precisa
 
 <h2 align="center">Autor</h2>
 <div align="center"> 
