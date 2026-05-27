@@ -14,10 +14,29 @@ const musica = new Audio('./sons/luna-rise-part-one.mp3');
 const audioFinalizado = new Audio('./sons/beep.mp3');
 const audioPausa = new Audio('./sons/pause.mp3');
 const audioPlay = new Audio('./sons/play.wav');
+const formulario = document.querySelector('.app__form-add-task');
+const botaoCancelar = document.querySelector('.app__form-footer__button--cancel');
+const botaoAdicionarTarefa = document.querySelector('.app__button--add-task');
+const textarea = document.querySelector('.app__form-textarea');
 musica.loop = true;
 
 let tempoDecorridoEmSegundos = 1500;
 let intervaloId = null;
+
+// Abrir formulário
+botaoAdicionarTarefa.addEventListener('click', () => {
+    formulario.classList.remove('hidden');
+    formulario.setAttribute('aria-hidden', 'false');
+    textarea.focus();
+});
+
+// Cancelar formulário
+botaoCancelar.addEventListener('click', () => {
+    formulario.classList.add('hidden');
+    formulario.setAttribute('aria-hidden', 'true');
+    textarea.value = '';
+});
+
 
 musicaFocoInput.addEventListener('change', () => {
     if(musica.paused){
